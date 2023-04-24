@@ -1,0 +1,3 @@
+# SecurePasswordGen
+This code allows the user to generate a random yet secure password of a specified length and copy it to the clipboard. 
+This code generates a graphical user interface (GUI) that allows the user to generate a random password of a specified length and copy it to the clipboard. The GUI includes an ASCII art label, an entry field for the password length, a button to generate the password, a label to display the generated password, and a button to copy the password to the clipboard. The code uses the random, string, tkinter, messagebox, and pyperclip modules to generate the password, create the GUI, display a message box, and copy the password to the clipboard.
